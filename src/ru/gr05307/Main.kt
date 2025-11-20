@@ -8,4 +8,6 @@ fun main() {
     println(sc)
     sc.b = 8
     println(sc)
+    val a = lolkek()
+    a.lolkek1()
 }
