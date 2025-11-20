@@ -10,4 +10,6 @@ fun main() {
     println(sc)
     val a = lolkek()
     a.lolkek1()
+    val a = lolkek()
+    a.lolkek1()
 }
